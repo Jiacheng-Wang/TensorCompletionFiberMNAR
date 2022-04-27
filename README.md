@@ -4,7 +4,6 @@ Low rank tensor completion with fibers missing not at random
 
 Jiacheng Wang and Dan Nicolae
 
-University of Chicago, Department of Statistics
 
 The software folder contains R functions tensor completion with fibers missing not at random.
 
